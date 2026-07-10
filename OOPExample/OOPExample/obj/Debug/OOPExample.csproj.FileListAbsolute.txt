@@ -1,0 +1,7 @@
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\obj\Debug\OOPExample.csproj.AssemblyReference.cache
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\obj\Debug\OOPExample.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\bin\Debug\OOPExample.exe.config
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\bin\Debug\OOPExample.exe
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\bin\Debug\OOPExample.pdb
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\obj\Debug\OOPExample.exe
+C:\Users\Victus\Documents\ASP.Net\OOPExample\OOPExample\obj\Debug\OOPExample.pdb

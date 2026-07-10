@@ -1,0 +1,11 @@
+E:\Documents\ASP.Net\UI Control\UI Control\bin\Debug\UI Control.exe.config
+E:\Documents\ASP.Net\UI Control\UI Control\bin\Debug\UI Control.exe
+E:\Documents\ASP.Net\UI Control\UI Control\bin\Debug\UI Control.pdb
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI Control.csproj.AssemblyReference.cache
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI_Control.Form1.resources
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI_Control.Properties.Resources.resources
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI Control.csproj.GenerateResource.cache
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI Control.csproj.CoreCompileInputs.cache
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI Control.exe
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI Control.pdb
+E:\Documents\ASP.Net\UI Control\UI Control\obj\Debug\UI_Control.Form2.resources

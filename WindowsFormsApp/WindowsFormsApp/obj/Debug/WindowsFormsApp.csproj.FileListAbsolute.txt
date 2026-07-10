@@ -1,0 +1,17 @@
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+E:\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.HelloAppUI.resources
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.HelloAppUI.resources
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Victus\Documents\ASP.Net\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

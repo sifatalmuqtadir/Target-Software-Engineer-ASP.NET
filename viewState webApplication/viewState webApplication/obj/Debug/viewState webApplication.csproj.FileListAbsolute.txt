@@ -1,0 +1,10 @@
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\bin\Debug\viewState webApplication.exe.config
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\bin\Debug\viewState webApplication.exe
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\bin\Debug\viewState webApplication.pdb
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState webApplication.csproj.AssemblyReference.cache
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState_webApplication.Form1.resources
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState_webApplication.Properties.Resources.resources
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState webApplication.csproj.GenerateResource.cache
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState webApplication.exe
+C:\Users\Victus\Documents\ASP.Net\viewState webApplication\viewState webApplication\obj\Debug\viewState webApplication.pdb
