@@ -53,7 +53,12 @@ namespace OOPExample
             //person2.middlename = "f.";
             //person2.lastname = "brus";
 
-            public string Code() { 
+            //public string Code() { 
+
+            Course course = new Course();
+            Console.WriteLine("Result: " + course.GetResult());
+
+
         }
     }
 }
