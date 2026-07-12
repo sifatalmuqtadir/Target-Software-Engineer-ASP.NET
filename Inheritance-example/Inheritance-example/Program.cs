@@ -28,7 +28,18 @@ namespace Inheritance_example
 
             balance = chk1.balance;
 
-            bankAccount b1 = new bankAccount();
+            // Up Down casting 
+            //bankAccount b1 = new bankAccount();
+            bankAccount b1 =  sv1;
+
+            savingAccount sv2 = (savingAccount) b1;
+            double interestAmount = sv2.interestAmount;
+
+            bankAccount b2 = new savingAccount();
+            
+            bankAccount b3 = new checkingAccount();
+
+            //bankAccount b1 = new bankAccount();
             
         }
     }
