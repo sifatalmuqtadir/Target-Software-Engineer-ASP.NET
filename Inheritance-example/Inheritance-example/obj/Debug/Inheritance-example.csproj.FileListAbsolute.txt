@@ -1,0 +1,7 @@
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\bin\Debug\Inheritance-example.exe.config
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\bin\Debug\Inheritance-example.exe
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\bin\Debug\Inheritance-example.pdb
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\obj\Debug\Inheritance-example.csproj.AssemblyReference.cache
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\obj\Debug\Inheritance-example.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\obj\Debug\Inheritance-example.exe
+C:\Users\Victus\Documents\ASP.Net\Target Software Engineer  ASP.NET\Inheritance-example\Inheritance-example\obj\Debug\Inheritance-example.pdb
