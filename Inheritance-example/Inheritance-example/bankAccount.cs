@@ -8,6 +8,10 @@ namespace Inheritance_example
 {
     public class bankAccount
     {
+        public bankAccount()
+        {
+            Console.WriteLine("Bank account created.");
+        }
         public string accountNumber { get; set; }
         public string customerName { get; set; }
         public double balance { get; private set; }

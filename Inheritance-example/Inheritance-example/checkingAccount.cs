@@ -8,5 +8,10 @@ namespace Inheritance_example
 {
     public class checkingAccount : bankAccount
     {
+        public checkingAccount()
+        {
+            Console.WriteLine("Checking account created.");
+        }
+        public double serviceCharge { get; set; }
     }
 }
