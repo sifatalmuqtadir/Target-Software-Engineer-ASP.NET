@@ -8,9 +8,18 @@ namespace Inheritance_example
 {
     public class bankAccount
     {
+        //public bankAccount(string accountNumbr, string customerName)
+        //{
+        //    Console.WriteLine("Bank account created.");
+        //}
+        public bankAccount(string accountNumbr, string customerName): this()
+        {
+            accountNumber = accountNumbr;
+            customerName = customerName;
+        }
         public bankAccount()
         {
-            Console.WriteLine("Bank account created.");
+            balance = 0;
         }
         public string accountNumber { get; set; }
         public string customerName { get; set; }
@@ -25,7 +34,7 @@ namespace Inheritance_example
 
         }
 
-        public string withdraw(double amount )
+        public virtual string withdraw(double amount)
         {
             balance -= amount;
             return "Withdraw";

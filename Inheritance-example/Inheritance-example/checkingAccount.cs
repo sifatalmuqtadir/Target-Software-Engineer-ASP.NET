@@ -8,10 +8,15 @@ namespace Inheritance_example
 {
     public class checkingAccount : bankAccount
     {
-        public checkingAccount()
+        //public checkingAccount() : base(s: "fsfsfs")
+        //{
+        //    Console.WriteLine("Checking account created.");
+        //}
+        public checkingAccount(string accountNumber, string customerName, double serviceCharge): base(accountNumber, customerName)
         {
-            Console.WriteLine("Checking account created.");
+            //this.accountNumber = accountNumber;
+            //this.customerName = customerName;
+            this.serviceCharge = serviceCharge;
         }
-        public double serviceCharge { get; set; }
     }
 }

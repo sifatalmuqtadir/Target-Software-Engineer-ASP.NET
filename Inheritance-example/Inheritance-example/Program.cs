@@ -12,17 +12,17 @@ namespace Inheritance_example
         {
             bankAccount b1 = new bankAccount();
             Console.WriteLine();
-            savingAccount sv1 = new savingAccount();
+            savingAccount sv1 = new savingAccount(accountNumber: "1212", customerName: "kamrul", interestAmount: 1200);
             //sv1.interestAmount = 500;
             //sv1.accountNumber = "SV-001";
             //sv1.customerName = "Sifat Al Muqtadir";
             //sv1.deposit(amount: 1000);
             //sv1.withdraw(amount: 500);
             //double balance = sv1.balance;
-            Console.WriteLine(); 
+            Console.WriteLine();
 
 
-            checkingAccount chk1 = new checkingAccount();
+            checkingAccount chk1 = new checkingAccount(accountNumber: "8080", customerName: "Alifa", serviceCharge: 9000);
             //chk1.serviceCharge = 1000;
             //chk1.accountNumber = "CHK-001";
             //chk1.customerName = "Sifat Al Muqtadir";
