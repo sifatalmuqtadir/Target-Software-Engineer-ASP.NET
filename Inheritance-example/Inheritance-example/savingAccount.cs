@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Inheritance_example
 {
-    public class savingAccount : bankAccount
+    public abstract class savingAccount : bankAccount
     {
         //public savingAccount(string s)
         //{
@@ -24,5 +25,13 @@ namespace Inheritance_example
         {
             return base.withdraw(amount);
         }
+        public override void transfer(string form, string to, double amount)
+        {
+            base.transfer(form, to, amount);
+        }
+        //public void transfer(string form, string to, double amount, DateTime date)
+        //{
+        //    Console.WriteLine($"Transfered {amount} from {form} to {to} date {date} ");
+        //}
     }
 }

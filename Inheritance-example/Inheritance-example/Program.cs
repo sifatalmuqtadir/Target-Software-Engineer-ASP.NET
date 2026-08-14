@@ -10,21 +10,25 @@ namespace Inheritance_example
     {
         static void Main(string[] args)
         {
-            bankAccount b1 = new bankAccount();
-            Console.WriteLine();
+            //bankAccount b1 = new bankAccount();
+            //Console.WriteLine();
             savingAccount sv1 = new savingAccount(accountNumber: "1212", customerName: "kamrul", interestAmount: 1200);
             sv1.deposit(amount: 1000);
+            
             //sv1.interestAmount = 500;
             //sv1.accountNumber = "SV-001";
             //sv1.customerName = "Sifat Al Muqtadir";
             //sv1.deposit(amount: 1000);
             //sv1.withdraw(amount: 500);
             //double balance = sv1.balance;
-            Console.WriteLine();
+            //Console.WriteLine();
 
 
-            checkingAccount chk1 = new checkingAccount(accountNumber: "8080", customerName: "Alifa", serviceCharge: 9000);
+            checkingAccount chk1 = new checkingAccount("8080", "Alifa", 9000);
             chk1.deposit(amount: 2000);
+            DateTime date = DateTime.Now;
+            sv1.transfer("", "", 322, date);
+            chk1.transfer("", 550);
             //chk1.serviceCharge = 1000;
             //chk1.accountNumber = "CHK-001";
             //chk1.customerName = "Sifat Al Muqtadir";
@@ -42,9 +46,9 @@ namespace Inheritance_example
 
             //bankAccount b2 = new savingAccount();
             bankAccount b3 = new bankAccount();
-            b1.accountNumber = "1234";
-            b1.customerName = "Sifat Al Muqtadir";
-            b1.deposit(amount: 1000);
+            b3.accountNumber = "1234";
+            b3.customerName = "Sifat Al Muqtadir";
+            b3.deposit(amount: 1000);
 
             List<bankAccount> accounts = new List<bankAccount>();
             accounts.Add(b3);

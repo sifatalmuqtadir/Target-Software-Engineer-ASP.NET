@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Inheritance_example
 {
-    public class bankAccount
+    public abstract class bankAccount
     {
         //public bankAccount(string accountNumbr, string customerName)
         //{
         //    Console.WriteLine("Bank account created.");
         //}
-        public bankAccount(string accountNumbr, string customerName): this()
+        public bankAccount(string accountNumbr, string customerName) : this()
         {
             accountNumber = accountNumbr;
             customerName = customerName;
@@ -34,10 +34,14 @@ namespace Inheritance_example
 
         }
 
-        public virtual string withdraw(double amount)
-        {
-            balance -= amount;
-            return "Withdraw";
-        }
+        //public virtual string withdraw(double amount)
+        //{
+        //    balance -= amount;
+        //    return "Withdraw";
+        //}
+        public abstract void transfer(string form, string to, double amount);
+        
+
+        
     }
 }

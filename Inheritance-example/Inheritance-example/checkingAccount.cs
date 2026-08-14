@@ -18,5 +18,10 @@ namespace Inheritance_example
             //this.customerName = customerName;
             this.serviceCharge = serviceCharge;
         }
+        public double ServiceCharge { get; set; }
+        public void transfer(string to, double amount,)
+        {
+            Console.WriteLine($"Transfered {amount} to {to}");
+        }
     }
 }
